@@ -1,1 +1,1 @@
-
+LocalStorage and templates training
